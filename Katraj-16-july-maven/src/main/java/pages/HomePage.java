@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class HomePage {
-	
+	//this is my first homepage
 	@FindBy(xpath = "//li[@class='oxd-userdropdown']")
 	public WebElement profile;
 	
